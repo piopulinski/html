@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Georgia', serif;
-    background-color: #f0f5eb;
+    background-color: #f06c6c;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,7 +12,7 @@ body {
 }
 
 .caixa-principal {
-    background-color: #ffffff;
+    background-color: #f06363;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
